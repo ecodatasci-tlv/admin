@@ -1,0 +1,6 @@
+.Rhistory
+.RData
+.Rproj.user
+.httr-oauth
+data/2018-10-18_survey.csv
+scripts/00_import-data.R
